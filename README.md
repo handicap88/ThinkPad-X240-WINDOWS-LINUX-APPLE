@@ -1,7 +1,7 @@
 # ThinkPad-X240-WINDOWS-LINUX-APPLE
-
+ 
 Updates:
-- Clover v5118
+- works with Clover v5118 have to update manualy 
 - Sinetek-rtsx.kext v2.2 (SD card reader) 
 
 MacOS Mojave Issues:
