@@ -1,8 +1,8 @@
 # ThinkPad-X240-WINDOWS-LINUX-APPLE
  
 Updates:
-- works with Clover v5118 have to update manualy 
-- Sinetek-rtsx.kext v2.2 (SD card reader) 
+- Looks that all works with Clover v5118, but you have to update manualy 
+- Sinetek-rtsx.kext v2.2 (now SD card reader don't breaks transfer) 
 
 MacOS Mojave Issues:
 - card reader stops working on second standby (Jettison app doesn't help) 
