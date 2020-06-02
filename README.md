@@ -6,7 +6,7 @@ Updates:
 
 MacOS Mojave Issues:
 - touchPad (sometimes not loaded) 
-- card reader stops working on second standby (Jettison app doesn't help) 
+- card reader stops working on second standby with card interted (Jettison app doesn't help) 
 - Audio (minijack) restarts on standby (look for alc_fix, will be updated soon) 
 - only Wi-fi (on 3G) or Bluetooth at the same time (DW1820A) due to interferations (5G works fine) 
  
