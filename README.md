@@ -1,7 +1,7 @@
 # ThinkPad-X240-WINDOWS-LINUX-APPLE
  
 Updates:
-- Looks that all works with Clover v5118, but you have to update manualy 
+- Looks that all works with new Clover, but you have to update manualy without specific drivers  
 - Sinetek-rtsx.kext v2.2 (now SD card reader don't breaks transfer) 
 
 MacOS Mojave Issues:
@@ -12,3 +12,6 @@ MacOS Mojave Issues:
  
   <img src="http://brak.99e.pl/2hack.jpg">
  <img src="http://brak.99e.pl/1hack.jpg">
+
+Based on:
+https://github.com/jloisel/t440p
