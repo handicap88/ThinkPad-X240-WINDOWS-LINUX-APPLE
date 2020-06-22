@@ -4,6 +4,11 @@ Updates:
 - Looks that all works with new Clover, but you have to update manualy without specific drivers  
 - Sinetek-rtsx.kext v2.2 (now SD card reader don't breaks transfer) 
 
+
+What's needed:
+- Macbook or/and IPhone to verify
+(soon screens)
+
 MacOS Mojave Issues:
 - touchPad (sometimes not loaded) 
 - card reader stops working on second standby with card inserted (Jettison app doesn't help) 
