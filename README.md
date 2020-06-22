@@ -16,7 +16,7 @@ MacOS Mojave Issues:
 - only Wi-fi (on 3G) or Bluetooth at the same time (DW1820A) due to interferations (5G works fine) 
  
   <img src="http://brak.99e.pl/2hack.jpg">
- <img src="http://brak.99e.pl/1hack.jpg">
+
 
 Based on:
 https://github.com/jloisel/t440p
