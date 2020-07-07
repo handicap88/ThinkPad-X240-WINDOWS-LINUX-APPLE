@@ -18,12 +18,11 @@ MacOS Mojave Issues:
  
   
   <img src="http://brak.99e.pl/grafiki/61.jpg">
-  <img src="http://brak.99e.pl/grafiki/62.jpg">
   <img src="http://brak.99e.pl/grafiki/60.jpg">
   <img src="http://brak.99e.pl/grafiki/65.jpg">
 
 Steps:
-1. Start with MacOS installer and format disk, create partitions (FAT for Windows or Linux, and HFS+ for MacOS)  // Dont't use APFS format
+1. Start with MacOS installer and format disk, create partitions (FAT for Windows or Linux, and HFS+ for MacOS)  // Dont't use APFS 
 2. After reboot, check if Clover is run corectly (If no try install v.5099  and make sure that order is correct in UEFI) // Bios options as always 
 3. Install Windows on specific partition, after format. 
 4. Install Linux on specific partition, after format.  
