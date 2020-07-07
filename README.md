@@ -16,10 +16,11 @@ MacOS Mojave Issues:
 - Audio (minijack) restarts on standby (look for alc_fix, will be updated soon) 
 - only Wi-fi (on 3G) or Bluetooth at the same time (DW1820A) due to interferations (5G works fine) 
  
-  <img src="http://brak.99e.pl/grafiki/60.jpg">
+  
   <img src="http://brak.99e.pl/grafiki/61.jpg">
   <img src="http://brak.99e.pl/grafiki/62.jpg">
-  <img src="http://brak.99e.pl/grafiki/63.jpg">
+  <img src="http://brak.99e.pl/grafiki/60.jpg">
+  <img src="http://brak.99e.pl/grafiki/65.jpg">
 
 Steps:
 1. Start with MacOS installer and format disk, create partitions (FAT for Windows or Linux, and HFS+ for MacOS)  // Dont't use APFS format
