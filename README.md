@@ -2,7 +2,6 @@
  
 Updates:
 - Looks that all works with new Clover, but you have to update manualy without specific drivers  
--Sinetek-rtsx.kext v2.2 (now SD card reader don't breaks transfer) 
 
 
 What's needed:
